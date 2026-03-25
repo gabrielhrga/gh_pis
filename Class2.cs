@@ -7,3 +7,6 @@ public class Class1
 	}
 }
 // dsadsa
+
+
+int promjena = 67;
